@@ -1,0 +1,97 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.cabecalho {
+  background-image: linear-gradient(#000000,#ff0000);
+color: white;
+display: flex;
+justify-content: space-around;
+padding: 24px 0;
+}
+
+.cabecalho-imagem{
+width: 7%;
+margin:  0 -700px;
+padding: 0 0px;
+}
+.cabecalho-lista-item{
+  display: inline-block;
+  margin: 0 16px;
+  font-size: 24px;
+
+
+}
+
+.fernandinho-imagem1{
+width: 50%;
+margin:  0 -600px;
+padding: 0 0px;
+}
+
+.fernandinho-imagem2{
+  width: 60%;
+  margin:  0 -600px;
+  padding: 0 0px;
+  }
+  
+.fernandinho-imagem03{
+width: 50%;
+ margin:  0 -600px;
+ padding: 0 0px;
+ }
+    
+ .fernandinho-imagem4{
+ width: 50%;
+ margin:  0 -600px;
+ padding: 0 0px;
+ }
+      
+.fernandinho-imagem5{
+  width: 60%;
+ margin:  0 -600px;
+ padding: 0 0px;
+}
+
+.Escola{
+  background-image: linear-gradient(#ff0000,#ff0000);
+color: white;
+display:flex;
+justify-content:center;
+align-items:center;
+padding: 24px 0;
+}
+.escola-div-conteudo{
+  width: 35%;
+}
+.escola-titulo{
+  color: #000000;
+  margin:  0 -600px;
+  padding: 24px 0;
+}
+
+.escola-texto-um{
+  margin:  0 -600px;
+ padding: 0 0px; 
+}
+.escola-texto-dois{
+  margin:  0 -600px;
+  padding: 0 0px; 
+ }
+ .escola-texto-tres{
+  margin:  0 -600px;
+  padding: 0 0px; 
+ }
+ .escola-texto-quatro{
+  margin:  0 -600px;
+  padding: 0 0px; 
+ }
+ .escola-texto-cinco{
+  margin:  0 -600px;
+  padding: 0 0px; 
+ }
+ .escola-texto-seis{
+  margin:  0 -600px;
+  padding: 0 0px; 
+ }
